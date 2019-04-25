@@ -1,0 +1,12 @@
+D:\Omar\Documents\GUI\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Omar\Documents\GUI\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Omar\Documents\GUI\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Omar\Documents\GUI\Assignment2\Assignment2\bin\Debug\Assignment2.xml
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.vbprojResolveAssemblyReference.cache
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.FinancialCalc.resources
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.Resources.resources
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.vbproj.GenerateResource.Cache
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.vbproj.CoreCompileInputs.cache
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.xml
+D:\Omar\Documents\GUI\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
